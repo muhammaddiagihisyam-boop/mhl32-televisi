@@ -1,0 +1,19 @@
+body{
+    background-color: blue;
+}
+
+.container-content{
+    height: 200px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1{
+    color: yellow;
+}
+
+.h2-content{
+color: white;
+}

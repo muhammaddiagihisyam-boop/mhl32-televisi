@@ -1,0 +1,28 @@
+body{
+    background-color: red;
+}
+
+.h1{
+   background-color: black;
+    color: white;
+}
+
+.container-content2{
+    height: 200px;
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h2-content2{
+  color: purple;
+}
+
+.container-content3{
+    background-color: orangered;
+}
+
+.h3-container3{
+    color: brown;
+}
